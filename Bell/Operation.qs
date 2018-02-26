@@ -1,7 +1,7 @@
-﻿namespace Quantum.Welcome
+﻿namespace Bell
 {
-    open Microsoft.Quantum.Primitive;
     open Microsoft.Quantum.Canon;
+    open Microsoft.Quantum.Primitive;
 
     operation Operation () : ()
     {
